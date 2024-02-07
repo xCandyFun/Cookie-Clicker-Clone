@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+/src/main/java/org/example/img/Cookie.jpg
+/src/main/java/org/example/img/newCookie.png
